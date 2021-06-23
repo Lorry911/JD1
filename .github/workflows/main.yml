@@ -1,0 +1,1 @@
+wget -q https://wuzhi03.coding.net/p/dj/d/readme/git/raw/main/jd-base.sh -O jd-base.sh && chmod +x jd-base.sh && ./jd-base.sh
